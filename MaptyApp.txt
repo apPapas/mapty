@@ -1,0 +1,6 @@
+MAPTY APP
+
+1. Click on the map to set the location of your workout.
+2. Choose in the form that appears on the sidebar if your workout is running or cycling.
+3. Fill the form with the distance (km), the duration (min) and the cadence (step/min) for running or the elevation gain (meters) for cycling.
+4. Keep track of the type, the place, the date and the information of your workouts.
